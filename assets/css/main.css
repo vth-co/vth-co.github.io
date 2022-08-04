@@ -4157,3 +4157,7 @@ input, select, textarea {
 	}
 
 
+.skills {
+	display: flex;
+	justify-content: center;
+}
