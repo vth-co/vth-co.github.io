@@ -463,14 +463,14 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: url("../img/disorder.gif") no-repeat scroll center 50%;
+  background: url("../img/disorder.gif") no-repeat right center;
   height: 100vh;
-  width: 100%;
+  width: 80%;
 }
 
 #hero .hero-content {
   height: 100vh;
-  /* text-align: center; */
+  text-align: center;
   width: 100%;
   display: flex;
   justify-content: center;
